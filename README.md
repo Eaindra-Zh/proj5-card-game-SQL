@@ -2,7 +2,7 @@
 
 SQL practice project from Khan Academy. 
 
-Skill displayed: 
+Skill demonstrated: 
 - Getting max, min and avg from the scoreboard in each game
 - Assigning description and imposing conditions using CASE
 - Ordering and grouping the data
